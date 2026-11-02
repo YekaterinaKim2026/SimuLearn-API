@@ -23,7 +23,7 @@
     {
       "tab": "theory",
       "type": "formula",
-      "latex": "z_{i+1}=10^{-2k}\\left\\lfloor 10^{2k}D(10^k z_i^2)\\right\\rfloor",
+      "latex": "z_{i+1}=10^{-2k}\\left\\lfloor 10^{2k}D(10^k z_i^2)\\right\\rfloor"
     },
     {
       "tab": "theory",
