@@ -27,7 +27,7 @@
     },
     {
       "tab": "theory",
-      "type": "list",
+      "type": "math_list",
       "items": [
       {
         "latex": "z_i",
