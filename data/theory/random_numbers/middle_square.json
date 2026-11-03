@@ -27,6 +27,11 @@
     },
     {
       "tab": "theory",
+      "type": "heading",
+      "text": "Обозначения"
+    },
+    {
+      "tab": "theory",
       "type": "math_list",
       "items": [
       {
